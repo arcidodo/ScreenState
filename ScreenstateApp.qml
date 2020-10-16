@@ -7,7 +7,7 @@ App {
 	id: screenstateApp
 
 	property url 		tileUrl : "ScreenstateTile.qml"
-	property url 		thumbnailIcon: "qrc:/tsc/harddisk.png"
+	property url 		thumbnailIcon: "qrc:/tsc/homeAssistantIconSmall.png"
 	property 		ScreenstateFullScreen screenstateFullScreen
 	property 		ScreenstateTile screenstateTile
         property bool           setscreenstate : false

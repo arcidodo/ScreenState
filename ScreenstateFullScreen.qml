@@ -72,7 +72,7 @@ Screen {
 
 	Text {
 		id: myLabel6
-		text: "Helper Entity_id in Home Assistant. Example : input_number.showdoorcamtoon :"
+		text: "Helper Entity_id in Home Assistant. Example : input_number.screenstate :"
 		font.pixelSize:  isNxt ? 20 : 16
 		font.family: qfont.regular.name
 		anchors {

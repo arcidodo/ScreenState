@@ -97,7 +97,7 @@ Tile {
 	Image {
 		id: tileDoorcamImage1
     		width: 200; height: 140
-		source: "qrc:/tsc/doorcam_large.jpg"
+		source: "qrc:/tsc/homeAssistantIconBig.png"
 		anchors {
 			verticalCenter: parent.verticalCenter
 			horizontalCenter: parent.horizontalCenter
